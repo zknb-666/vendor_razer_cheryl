@@ -1,3 +1,0 @@
-singleIFESupportedWidth=4032
-singleIFESupportedHeight=3024
-multiCameraEnable=1
